@@ -27,12 +27,13 @@ public class HistogramBot extends RobotSE implements Runnable
    //Requirement method for runnable
    public void run()
    {
-      this.smartFindFirstThing();
-      //this.outputThingCount(); 
-     //this.move();
-     // this.makeHistogram();
-      this.outputThingCount();
-   
+      for (int i = 0; i < 5; i++)
+      {
+      this.findFirstThing(); 
+      this.move();
+      this.makeHistogram();
+      this.outputThingCount();      
+      }
    }
 
    //Collects things to make histogram
@@ -107,12 +108,6 @@ public class HistogramBot extends RobotSE implements Runnable
       return this.thingCount;
   }
 
-
-   //Test methods, for better optomization over their pervious counterparts
-   public void smartFindFirstThing()
-   {
-    
-   }
    //Overrides RobotSE method with logic to check wether a move is possible
    public void move()
    {
