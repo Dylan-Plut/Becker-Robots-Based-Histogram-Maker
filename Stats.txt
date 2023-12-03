@@ -1,0 +1,51 @@
+
+Histogram Bot
+0 0 13 13
+45
+
+#Stats
+   becker.robots.Thing 1 2
+   becker.robots.Thing 2 2
+   becker.robots.Thing 2 2
+   becker.robots.Thing 3 2
+   becker.robots.Thing 3 2
+   becker.robots.Thing 3 2
+   becker.robots.Thing 4 2
+   becker.robots.Thing 4 2
+   becker.robots.Thing 4 2
+   becker.robots.Thing 4 2
+   becker.robots.Thing 5 2
+   becker.robots.Thing 5 2
+   becker.robots.Thing 5 2
+   becker.robots.Thing 5 2
+   becker.robots.Thing 5 2   
+
+
+   becker.robots.Thing 7 3
+   becker.robots.Thing 7 3
+   becker.robots.Thing 7 3
+   becker.robots.Thing 7 3
+   becker.robots.Thing 8 3
+   becker.robots.Thing 8 3
+   becker.robots.Thing 8 3
+   becker.robots.Thing 9 3
+   becker.robots.Thing 9 3
+   becker.robots.Thing 10 3
+   becker.robots.Thing 11 3
+   becker.robots.Thing 11 3
+   becker.robots.Thing 11 3
+   becker.robots.Thing 11 3
+   becker.robots.Thing 11 3
+   becker.robots.Thing 11 3
+
+becker.robots.Wall 1 8 Direction.EAST
+becker.robots.Wall 2 8 Direction.EAST
+becker.robots.Wall 3 8 Direction.EAST
+becker.robots.Wall 4 8 Direction.EAST
+becker.robots.Wall 5 8 Direction.EAST
+becker.robots.Wall 6 8 Direction.EAST
+becker.robots.Wall 7 8 Direction.EAST
+becker.robots.Wall 8 8 Direction.EAST
+becker.robots.Wall 9 8 Direction.EAST
+becker.robots.Wall 10 8 Direction.EAST
+becker.robots.Wall 11 8 Direction.EAST
